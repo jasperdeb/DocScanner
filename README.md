@@ -2,7 +2,7 @@
 
 ![Swift](https://img.shields.io/badge/Swift-5.5-orange.svg)
 
-This repository contains `DocScanner`, a SwiftUI wrapper around `VNDocumentCameraViewController`, and `ScanInterpreter`, a tool for interpreting scanned documents and cards using the Vision and VisionKit frameworks. It offers image to text parsing capabilities.
+This repository contains `DocScanner`, a SwiftUI wrapper around `VNDocumentCameraViewController`, and `ScanInterpreter`, a tool for interpreting scanned documents and cards using the Vision and VisionKit frameworks. It offers image to text parsing capabilities. 123
 
 ## What
 - [x] Document scanner
